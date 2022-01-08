@@ -1,0 +1,51 @@
+/* Write your CSS Here. */
+h1{background-color: blue; 
+    text-align: center; 
+    color: whitesmoke;
+    font-family:Arial, Helvetica, sans-serif;
+    margin: auto;
+    
+}
+
+h2 {
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    background-color: darkblue;
+    text-align: center;
+    
+    color: whitesmoke;
+}
+
+form {
+    margin: auto;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+    background-color: black;
+}
+
+div {
+    margin: auto;
+    background-color: lightblue;
+    color: black;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h4 {
+    margin: auto;
+    background-color: burlywood;
+    color: Black;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h5 {
+    margin: auto;
+    background-color: pink;
+    color: Black;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+}

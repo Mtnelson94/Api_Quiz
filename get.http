@@ -1,0 +1,10 @@
+get https://jservice.kenzie.academy/api/clues
+
+###
+
+get https://jservice.kenzie.academy/api/categories
+
+###
+
+get https://jservice.kenzie.academy/api/random-clue
+
